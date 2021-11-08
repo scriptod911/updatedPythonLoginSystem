@@ -1,6 +1,3 @@
-# Make a python login system using hashing and sql lite
-
-
 import sqlite3
 import hashlib
 import sys
